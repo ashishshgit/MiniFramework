@@ -85,11 +85,11 @@ public class BaseClass {
 	private synchronized void launchBrowser() {
 		// Initialize the WebDriver based on browser defined in config.properties
 
-		//String browser = System.getProperty("BROWSER","chrome");
+		String browser = System.getProperty("BROWSER","chrome");
 		
-		//System.out.println(">>> BROWSER property: [" + System.getProperty("BROWSER") + "]");
+		System.out.println(">>> BROWSER property: [" + System.getProperty("BROWSER") + "]");
 		
-		String browser= prop.getProperty("browser");
+		//String browser= prop.getProperty("browser");
 
 
 		if (browser.equalsIgnoreCase("chrome")) {

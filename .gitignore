@@ -1,0 +1,27 @@
+# Maven build outputs
+target/
+*.class
+
+# Logs
+*.log
+logs/
+
+# TestNG reports
+test-output/
+
+# Eclipse/IDEA project files
+.classpath
+.project
+.settings/
+.idea/
+*.iml
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Selenium drivers/binaries
+*.exe
+*.dll
+*.so
+*.dylib

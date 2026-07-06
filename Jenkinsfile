@@ -16,7 +16,7 @@ pipeline {
     stages {
         stage('Checkout') {
             steps {
-                git branch: 'main', url: 'https://github.com/ashishshgit/TestOrnageHRM.git'
+                git branch: 'main', url: 'https://github.com/ashishshgit/MiniFramework.git'
             }
         }
 
