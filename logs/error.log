@@ -1,0 +1,6 @@
+2026-07-07 02:10:53 [TestNG-test-Test-1] ERROR BaseClass - Error Message
+2026-07-07 02:10:53 [TestNG-test-Test-1] FATAL BaseClass - Fetal Message
+2026-07-07 02:10:55 [TestNG-test-Test-2] ERROR BaseClass - Error Message
+2026-07-07 02:10:55 [TestNG-test-Test-2] FATAL BaseClass - Fetal Message
+2026-07-07 02:11:02 [TestNG-test-Test-3] ERROR BaseClass - Error Message
+2026-07-07 02:11:02 [TestNG-test-Test-3] FATAL BaseClass - Fetal Message
