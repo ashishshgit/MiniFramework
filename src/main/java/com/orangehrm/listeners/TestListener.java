@@ -29,7 +29,7 @@ import com.orangehrm.utilities.RetryAnalyzer;
 			ExtentManager.logStep("Test Started: " + testName);
 		}
 
-		// Triggered when a Test succeeds
+		// Triggered when a Test succeeds.
 		@Override
 		public void onTestSuccess(ITestResult result) {
 			String testName = result.getMethod().getMethodName();
