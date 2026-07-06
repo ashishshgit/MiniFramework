@@ -79,7 +79,7 @@ public class BaseClass {
 		logger.info("Property File Loaded");
 
 		// Start the Extent Report
-		// ExtentManager.getReporter(); //-This has been implemented in TestListener
+		// ExtentManager.getReporter(); //--This has been implemented in TestListener
 	}
 
 	private synchronized void launchBrowser() {
